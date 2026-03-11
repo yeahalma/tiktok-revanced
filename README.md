@@ -17,5 +17,5 @@
 
 This patch modifies the original APK, and may violate the app provider's terms of service. Use at your own risk.
 
-# Shoutout To:\
+# Shoutout To:
 [ReVanced](https://revanced.app)
