@@ -1,6 +1,6 @@
 # Installation steps:
 
->1. Install the latest version of TikTok Revanced.
+>1. Download and Install the latest [release](https://github.com/yeahalma/tiktok-revanced/releases) of TikTok Revanced.
 >2. Log into your account and you are good to go.
 >3. (Recommended to use [Obtainium](https://github.com/ImranR98/Obtainium) to download and install build updates.)
 
