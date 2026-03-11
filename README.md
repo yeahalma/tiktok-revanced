@@ -2,7 +2,7 @@
 
 >1. Install the latest version of TikTok Revanced.
 >2. Log into your account and you are good to go.
->3. (Recommended to use Obtainium to download and install build updates.)
+>3. (Recommended to use [Obtainium](https://github.com/ImranR98/Obtainium) to download and install build updates.)
 
 # Patches:
 
